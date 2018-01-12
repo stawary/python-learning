@@ -1,2 +1,1 @@
-# python-learning
-python learning
+入坑机器学习，学到后面越发觉得python基础和第三方库的重要性，做下总结。
